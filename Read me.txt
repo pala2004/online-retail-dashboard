@@ -1,0 +1,52 @@
+Online Retail Data Visualization
+This project contains a Tableau dashboard and dataset focused on analyzing online retail sales. The visualization provides insights into customer behavior, product performance, sales trends, and regional distribution to support business decision-making.
+
+Project Structure:
+Online-Retail-Visualization/
+|-- Online Retail (1).xlsx                  -> Dataset used for analysis
+|-- online retail data visuvalization1.twbx -> Tableau packaged workbook
+|-- README.txt                              -> Project documentation
+
+Dashboard Overview:
+The Tableau dashboard includes:
+- Top-selling products by quantity and revenue
+- Monthly sales trends
+- Country-wise sales breakdown
+- Customer segmentation
+- Key metrics like total revenue and repeat customer rate
+
+To view the dashboard:
+- Open the .twbx file in Tableau Desktop
+- OR visit the Tableau Public link (if available)
+
+Tableau Public Link:
+(View here if published): https://public.tableau.com/your-dashboard-link
+
+Dataset Information:
+Source: UCI Machine Learning Repository
+File: Online Retail (1).xlsx
+Main Columns:
+- InvoiceNo
+- StockCode
+- Description
+- Quantity
+- InvoiceDate
+- UnitPrice
+- CustomerID
+- Country
+
+Tools Used:
+- Tableau Desktop (for data visualization)
+- Microsoft Excel (data source)
+- GitHub (for project hosting)
+
+How to Use:
+1. Clone or download the repo
+2. Open the .twbx file using Tableau Desktop
+3. Explore the visualizations and insights
+
+License:
+This is a public project for learning/demo purposes only.
+
+Contact:
+Feel free to raise an issue in the repository for any feedback.
